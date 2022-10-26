@@ -13,5 +13,5 @@
 
 
 <a href="https://www.linkedin.com/in/fabiottavares/">![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
-<a  mailto="fabio.furtado@estudante.ufla.br">![gmail](	https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
+<a  href="mailto:fabio.furtado@estudante.ufla.br">![gmail](	https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
 
